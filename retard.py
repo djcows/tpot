@@ -1,3 +1,4 @@
+# djcows 19-sept-2024
 def make_retards(n):
   retards = []
   for i in range(n):
