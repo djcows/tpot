@@ -1,3 +1,10 @@
+
+# bryan 27-Feb-2026
+RETARD = "This is so funny, it is retarded."
+for _ in range(pow(len(RETARD), len(RETARD))):
+    print(RETARD)
+# bryan 27-Feb-2026
+
 # djcows 19-sept-2024
 def make_retards(n):
   retards = []
